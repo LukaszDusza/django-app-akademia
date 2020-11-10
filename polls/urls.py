@@ -8,3 +8,4 @@ urlpatterns = [
     path('<int:question_id>/vote/', views.vote, name='vote'), #/polls/3/vote/
 ]
 
+# ten napis sie wyswietla gdy jestem w moim branchu 'lukasz'
