@@ -21,3 +21,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('polls/', include('polls.urls'))
 ]
+
+
+# dodałem tutaj inny napis niż u ciebie
+# i dodałem jeszcze jedną dodatkową linijke żeby wrzucić cokolwiek i nie wysadzić githuba
