@@ -1,6 +1,9 @@
 env
 polls/__pycache__
 polls/migrations/__pycache__
+**/__pycache__
+mysite/__pycache__
+db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
